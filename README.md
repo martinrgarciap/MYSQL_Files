@@ -1,6 +1,10 @@
 # MYSQL_Files
 
-This a collection of exercises and projects completed in a Udemy MYSQL Bootcamp course.
+This a collection of exercises and projects completed in a Udemy MYSQL Bootcamp course
+(https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/). 
+The purpose of the bootcamp was to learn how to use MYSQL to create and interact with 
+databases, write complex SQL queries across multiple tables,model real-world data and 
+learn how to answer company performance or sales questions using mock data.
 
 
 <h3> MYSQLLESSONS Folder </h3>
